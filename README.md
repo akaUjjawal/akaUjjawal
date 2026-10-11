@@ -81,6 +81,16 @@ Booking, cancellation, and FIFO-waitlist system with a normalized SQL schema and
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-trophies.vercel.app/?username=akaUjjawal&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+
+</div>
+
+---
+
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
