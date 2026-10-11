@@ -71,27 +71,13 @@ Booking, cancellation, and FIFO-waitlist system with a normalized SQL schema and
 
 <div align="center">
 
-![Ujjawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akaUjjawal&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaUjjawal&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Ujjawal's GitHub stats](https://github-readme-stats.shion.dev/api?username=akaUjjawal&theme=radical&hide_border=true&include_all_commits=true&count_private=false)
+
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=akaUjjawal&theme=radical&hide_border=true&layout=compact)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=akaUjjawal&theme=radical&hide_border=true)
 
 </div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=akaUjjawal&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8)
-
-</div>
-
----
-
-### 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=akaUjjawal&theme=radical&hide_border=true)
 
 ---
 
